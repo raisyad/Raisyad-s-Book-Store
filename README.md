@@ -1,3 +1,7 @@
+### This project contains : 
+
+Export PDF, MergePDF, Multi user Role
+
 ## IF GET THE ERROR WHEN DOWNLOAD PDF (when the image was png ext)
 1. Uncomment the gd extension on the Apache -> Config from the xampp app.
 2. Uncomment the gd extension on the xampp/php/php.ini
